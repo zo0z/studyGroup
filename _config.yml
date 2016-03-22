@@ -3,8 +3,8 @@
 
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
-title: Our Study Group
-description: "A study group."
+title: NGS Khartoum 2016
+description: "A study group, housing participants in the latest CBSB workshop on NGS, funded by H3ABioNet, Mozilla & TrendInAfrica."
 language: en
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
