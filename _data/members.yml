@@ -1,6 +1,7 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Azza Ahmed
+  affiliation: University of Khartoum
+  github: zo0z
   interests:
+    - Bioinformatics
     - Programming
     - Open Science
