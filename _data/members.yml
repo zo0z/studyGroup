@@ -7,8 +7,10 @@
     - Programming
 
 - name: Rehab Ahmed
-affiliation: University of Khartoum
-github: Rehabahmed2015
-interests:
-- Bioinformatics
-- Pharmacy
+  affiliation: University of Khartoum
+  github: Rehabahmed2015
+  interests:
+    - Bioinformatics
+    - Control Systems
+    - Pharmacy
+    
