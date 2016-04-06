@@ -1,0 +1,9 @@
+---
+title: Study Group Meetup
+text: Informal meet and greet event
+location: CBSB lab
+link: https://github.com/zo0z/studyGroup/issues/1
+date: 2016-04-07
+startTime: '12:00'
+endTime: '13:00'
+---
