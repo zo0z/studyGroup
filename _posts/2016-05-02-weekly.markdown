@@ -1,0 +1,9 @@
+---
+title: Weekly Study Group Meetup
+text: Lessons learned from Bioinformatics Data Skills, chapter 2
+location: Physically @ CBSB lab, and Online @ mconf room 
+link: https://github.com/zo0z/studyGroup/issues/3
+date: 2016-05-02
+startTime: '09:00'
+endTime: '10:00'
+---
